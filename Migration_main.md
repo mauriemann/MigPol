@@ -14,13 +14,13 @@ Wintersemester 2024/2025
 
 Blockseminar
 
-Zeit und Ort: Einzeltermine  
+Zeit und Ort: Einzeltermine 07.04.2025 10-18 Uhr; 08.04.2025 11-18 Uhr; 09.04.2025 10-18 Uhr  
 
 Vorbesprechung: 10.02.2025, Raum LS1 - R.209b
 
 ## Seminarplan
 
-|Zeit|Tag 1|Tag 2|Tag 3|
+|Zeit|07.04.2025|08.04.2025|09.04.2025|
 |----|----|----|----|
 |10:00-13:00|Einführung und Grundlagen: Georg Simmel, Jochen Oltmer, Everett Lee|Flüchtlingbegriff und Konventionen|Migrationsethik und Demokratietheorie|
 |13:00-14:00|Mittagspause|Mittagspause|Mittagspause|
@@ -30,7 +30,7 @@ Vorbesprechung: 10.02.2025, Raum LS1 - R.209b
 
 ## Thematische Schwerpunkte und Literatur
 
-### Grundlagen: Tag 1
+### Grundlagen: Montag 07.04.2025
 
 Georg Simmel (1908): Exkurs über den Fremden. Soziologie Bd II. Frankfurt/Main 1992. S. 764-771
 
@@ -45,7 +45,7 @@ Hein de Haas (2021): A theory of migration: the aspirations-capabilities framewo
 Mimi Sheller (2018): Mobility Justice. The Politics of Movement in an Age of Extremes. 
 
 
-### Flucht: Tag 2
+### Flucht: Dienstag 08.04.2025
 
 **Flüchtlingskonventionen**
 
@@ -89,7 +89,7 @@ Mann, Itamar: Maritime Legal Black Holes: Migration and Rightlessness in Interna
 
 Claudio Deiana et al.: Migrants at Sea: Unintended Consequences of Search and Rescue Operations. CEPR Discussion Paper No. DP16173
 
-### Mittwoch Tag 3
+### Mittwoch 09.04.2025
 
 **Migrationsethik/open borders**
 
@@ -121,10 +121,12 @@ Aladin El-Mafaalani: Das Integrationsparadox: Wandlungsdynamiken, Konfliktlinien
 
 * Teilnahmeleistung: Expert:innen zu einzelnen Texten oder Schwerpunkten. Kurze Präsentation am Anfang der Sitzung (max. 20 Minuten)
 
+  [Etherpad für die Themenwahl](https://pad.riseup.net/p/MigPol-keep)
+
 * Prüfungsleistung: Hausarbeit zu einem selbstgewählten Thema
 
 * Themenabsprache in der Sprechstunde  
 
 * Umfang: 15 Textseiten (12pt., 1,5facher Zeilenabstand, 3cm, Seitenrand) zzgl. Deckblatt, Inhaltsverzeichnis, Literaturverzeichnis, Eigenständigkeitserklärung
 
-* Abgabe: 31.03.2025 (bzw. nach Vereinbarung)
+* Abgabe: Nach Absprache
