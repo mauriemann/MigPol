@@ -129,4 +129,6 @@ Aladin El-Mafaalani: Das Integrationsparadox: Wandlungsdynamiken, Konfliktlinien
 
 * Umfang: 15 Textseiten (12pt., 1,5facher Zeilenabstand, 3cm, Seitenrand) zzgl. Deckblatt, Inhaltsverzeichnis, Literaturverzeichnis, Eigenständigkeitserklärung
 
-* Abgabe: Nach Absprache
+* Abgabe der Prüfungsleistungen nach individueller Absprache; Letzter Abgabetermin für das Wintersemester 23.05.2025 (Ende des Korrekturzeitraums), Anmeldung im Sommersemester ist ebenfalls möglich
+
+
