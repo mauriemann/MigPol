@@ -42,8 +42,23 @@ Matthew Gibney (2016): Political Theory, Ethics, and Forced Migration. In: Fiddi
 
 Hein de Haas (2021): A theory of migration: the aspirations-capabilities framework. Comparative Migration Studies 9 (8).
 
-Mimi Sheller (2018): Mobility Justice. The Politics of Movement in an Age of Extremes. 
+Mimi Sheller, John Urry (2006): The New Mobilities Paradigm
 
+#### Thematischer Einstieg
+
+**Bildet Gruppen (3 Personen)**
+
+Beantwortet die folgenden drei Fragen:
+
+1. Was bedeutet Migration für mich persönlich?
+2. Warum ist Migration politisch?
+3. Welche theoretischen Zugänge zu Migration habt Ihr?
+
+Zeit: 20 Minuten in der Gruppe, danach Diskussion im Plenum
+
+Nehmt Euch Flipcharts für die Visualisierung
+
+Online: Nutzt das Whiteboard im Zoom
 
 ### Flucht: Dienstag 08.04.2025
 
