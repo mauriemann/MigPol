@@ -23,6 +23,14 @@ Einzeltermine Freitag 5.12.2025, Freitag 23.1.2026, Samstag 24.1.2026 10:00 - 18
 Vorbesprechung: 29.10.2025, 16:00 - 18:00 Uhr, Raum WR383 - R. 306/307
 
 
+**OLAT**
+
+![QR-Code]
+
+https://lms.uni-kiel.de/url/RepositoryEntry/5682167882
+
+
+
 ## Seminarplan
 
 |Zeit|5.12.2025|23.1.2026|24.1.2026|
@@ -144,3 +152,4 @@ Aladin El-Mafaalani: Das Integrationsparadox: Wandlungsdynamiken, Konfliktlinien
 * Umfang: 15 Textseiten (12pt., 1,5facher Zeilenabstand, 3cm, Seitenrand) zzgl. Deckblatt, Inhaltsverzeichnis, Literaturverzeichnis, Eigenständigkeitserklärung
 
 * Abgabe: 31.03.2026 (bzw. nach Vereinbarung)
+
