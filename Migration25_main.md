@@ -143,4 +143,4 @@ Aladin El-Mafaalani: Das Integrationsparadox: Wandlungsdynamiken, Konfliktlinien
 
 * Umfang: 15 Textseiten (12pt., 1,5facher Zeilenabstand, 3cm, Seitenrand) zzgl. Deckblatt, Inhaltsverzeichnis, Literaturverzeichnis, Eigenständigkeitserklärung
 
-* Abgabe: 31.03.2025 (bzw. nach Vereinbarung)
+* Abgabe: 31.03.2026 (bzw. nach Vereinbarung)
