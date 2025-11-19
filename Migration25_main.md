@@ -35,11 +35,11 @@ https://lms.uni-kiel.de/url/RepositoryEntry/5682167882
 
 |Zeit|5.12.2025|23.1.2026|24.1.2026|
 |----|----|----|----|
-|10:00-13:00|Einführung und Grundlagen: Georg Simmel, Jochen Oltmer, Everett Lee|Flüchtlingbegriff und Konventionen|Migrationsethik und Demokratietheorie|
+|10:00-13:00| **Achtung: beginnt erst um 11:00 Uhr** Einführung und Grundlagen: Georg Simmel, Jochen Oltmer, Everett Lee|Flüchtlingbegriff und Konventionen Referat: Liv Lensch, Abdul Youssef |Migrationsethik und Demokratietheorie|
 |13:00-14:00|Mittagspause|Mittagspause|Mittagspause|
-|14:00-15:30|Transnationalismus und Mobilities|Flüchtlingschutz und Flüchtlingsabwehr|Postmigrantische Gesellschaftstheorie|
+|14:00-15:30|Transnationalismus und Mobilities, Referat: Theresa Berthel|Flüchtlingschutz und Flüchtlingsabwehr Referat: Dareen Mardini, Sanaz Arjmand|Postmigrantische Gesellschaftstheorie; Referat: Elisabeth Gorlova, Partnerin|
 |15:30-16:00|Kaffeepause|Kaffeepause|Kaffeepause|
-|16:00-18:00|Aspirations-Capabilities Framework|Zivile Seenotrettung|Abschlussdiskussion|
+|16:00-18:00|Aspirations-Capabilities Framework, Referat: Naures Al-Assm, Lea-Marie Worthmann|Zivile Seenotrettung|Abschlussdiskussion|
 
 ## Thematische Schwerpunkte und Literatur
 
@@ -152,5 +152,6 @@ Aladin El-Mafaalani: Das Integrationsparadox: Wandlungsdynamiken, Konfliktlinien
 * Umfang: 15 Textseiten (12pt., 1,5facher Zeilenabstand, 3cm, Seitenrand) zzgl. Deckblatt, Inhaltsverzeichnis, Literaturverzeichnis, Eigenständigkeitserklärung
 
 * Abgabe: 31.03.2026 (bzw. nach Vereinbarung)
+
 
 
