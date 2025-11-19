@@ -53,7 +53,7 @@ Jochen Oltmer (2017): Migration. Geschichte und Zukunft der Gegenwart. Kapitel 2
 
 Matthew Gibney (2016): Political Theory, Ethics, and Forced Migration. In: Fiddian-Qasmiyeh et al.: The Oxford Handbook of Forced Migration Studies. Oxford 2016. S. 48-59.  
 
-Glick Schiller, Nina & Basch, Linda & Blanc-Szanton, Cristina. (1992). Towards a Transnational Perspective on Migration: Race, Class, Ethnicity, and Nationalism Reconsidered. Annals of the New York Academy of Sciences. 645. 1-24. https://doi.org/10.1111/j.1749-6632.1992.tb33482.x
+Glick Schiller, Nina & Basch, Linda & Blanc-Szanton, Cristina. (1992). Transnationalism: A New Analytic Framework for Understanding Migration Annals of the New York Academy of Sciences. 645. 1-24. https://doi.org/10.1111/j.1749-6632.1992.tb33482.x
 
 Mimi Sheller, John Urry (2006): The New Mobilities Paradigm. Environment and Planning A: Economy and Space, 38(2), 207-226. https://doi.org/10.1068/a37268 
 
@@ -152,6 +152,7 @@ Aladin El-Mafaalani: Das Integrationsparadox: Wandlungsdynamiken, Konfliktlinien
 * Umfang: 15 Textseiten (12pt., 1,5facher Zeilenabstand, 3cm, Seitenrand) zzgl. Deckblatt, Inhaltsverzeichnis, Literaturverzeichnis, Eigenständigkeitserklärung
 
 * Abgabe: 31.03.2026 (bzw. nach Vereinbarung)
+
 
 
 
